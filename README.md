@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Sujay 😊
-- 👀 I’m interested in Data, Cloud, Databases, Data Analytics, Business Intelligence & Visualization.
-- 🌱 I’m currently learning Qlik Sense, Microsoft Azure, Google Cloud
-- 💞️ I’m looking to collaborate on ...<Nothing right now....come back later 😂>
+- 👋 Hello!! I’m Sujay 😊
+- 👀 I’m interested in Data, AI/ML, Data Science and Cloud.
+- 🌱 Developing my skills in ML
+- 💞️ I’m looking to collaborate on developing ML models to solve business problems
 - 📫 How to reach me .... Email me at sujaysc29@gmail.com
 
 <!---
